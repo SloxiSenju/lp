@@ -1,0 +1,40 @@
+{
+  "placeholderImages": [
+    {
+      "id": "ebook-cover",
+      "description": "Portada del e-book El Gran Recetario Saludable",
+      "imageUrl": "https://i.imgur.com/sRWjmSy.jpeg",
+      "imageHint": "healthy cookbook"
+    },
+    {
+      "id": "ebook-cover-alt",
+      "description": "Un libro de recetas de pasteles caseros",
+      "imageUrl": "https://images.unsplash.com/photo-1542826438-c21a424d4d12?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxjYWtlJTIwcmVjaXBlJTIwYm9va3xlbnwwfHx8fDE3MjE4NzAzODN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "cake recipe book"
+    },
+    {
+      "id": "preview-1",
+      "description": "Una vista previa de una receta de brownies de chocolate.",
+      "imageUrl": "https://images.unsplash.com/photo-1597511325152-3189b2b71ef1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxjaG9jb2xhdGUlMjBicm93bmllc3xlbnwwfHx8fDE3NjE1OTU4ODh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "chocolate brownies"
+    },
+    {
+      "id": "preview-2",
+      "description": "Una vista previa de una receta de tarta de frutas.",
+      "imageUrl": "https://images.unsplash.com/photo-1717677752061-6efe3d8ac919?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxmcnVpdCUyMHRhcnR8ZW58MHx8fHwxNzYxNTcxODE3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "fruit tart"
+    },
+    {
+      "id": "preview-3",
+      "description": "Una vista previa de una receta de galletas.",
+      "imageUrl": "https://images.unsplash.com/photo-1574156754673-0b54b2934ded?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxoZWFsdGh5JTIwY29va2llc3xlbnwwfHx8fDE3NjE1ODgwODB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "healthy cookies"
+    },
+    {
+      "id": "preview-4",
+      "description": "Una vista previa de una receta de muffins.",
+      "imageUrl": "https://images.unsplash.com/photo-1639841400383-c2120719b0f5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxoZWFsdGh5JTIwbXVmZmluc3xlbnwwfHx8fDE3NjE2MDk3MTB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "healthy muffins"
+    }
+  ]
+}
